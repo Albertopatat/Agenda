@@ -1,4 +1,5 @@
-package agenda01;
+/*package agenda01; Primer versión con menú DOS. Evoluciona a la versión 02
+
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -120,3 +121,4 @@ public class Agenda01 {
     }
     
 }
+*/
